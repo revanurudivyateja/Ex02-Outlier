@@ -26,8 +26,8 @@ Save the final data set into the file
 # CODE
 ```
 /* 
-Name : O. Shanthan Kumar Reddy
-Register Number : 212220040107
+Name : R.Divya Teja
+Register Number : 212220040132
 **Removing Outliers - bhp.csv**
 import pandas as pd
 import numpy as np
